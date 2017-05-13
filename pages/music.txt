@@ -1,0 +1,144 @@
+<!DOCTYPE html> <!-- The new doctype -->
+<html>
+    <head>
+    
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        
+        <title>YUMMIES</title>
+        <link rel="icon" type="image/ico" href="images/favicon.ico">
+		<link rel="stylesheet" type="text/css" href="styles/normalize.css">
+        <link rel="stylesheet" type="text/css" href="styles/main.css">
+        
+    </head>
+    
+    <body>
+    	
+    	<section id="page"> <!-- Defining the #page section with the section tag -->
+    
+            <header> <!-- Defining the header section of the page with the appropriate tag -->
+            
+                <hgroup>
+					<h1>CHERISH WEDDING PLANNERS</h1>
+					<h3>We make memorable occasions of your life memorable </h3>
+				</hgroup>
+                                
+                <nav class="clear"> <!-- The nav link semantically marks your main site navigation -->
+                    <ul>
+                        <li><a href="#article1">WEDDINGS</a></li>
+                        <li><a href="#article2"></a>FLORAL DESIGN AND DECOR</li>
+                        <li><a href="#article3"></a>FOOD AND BEVERAGES</li>
+						<li><a href="#article4"></a>MUSIC</li>
+                    </ul>
+                </nav>
+            
+            </header>
+            
+            <section id="articles"> <!-- A new section with the articles -->
+
+				<!-- Article 1 start -->
+
+                <div class="line"></div>  <!-- Dividing line -->
+                
+                <article id="article1"> <!-- The new article tag. The id is supplied so it can be scrolled into view. -->
+                    <h2>WEDDINGS<a class="go_up" href="#" class="up">&uparrow;</a></h2>
+
+                    <div class="line"></div>
+                    
+                    <div class="articleBody clear">
+                    
+                    	<figure> <!-- The figure tag marks data (usually an image) that is part of the article -->
+	                    	<a href="pages/weddings.html"><img src="images/images.jpg" width="500" height="300"></a>
+												
+                        </figure>
+                        
+                        <p>Cherish is a striking combination of expertise and panache. We will walk you through the entire process and take care of every little detail, from choosing the right colour scheme, design & decor execution of the venue, to guest management and all the way to organizing the perfect honeymoon for the newlyweds.</p>
+We bring you a one-stop solution to planning and executing a social event, be it weddings or family ceremonies. Our aim as wedding planners is to make your planning period stress free and concentrate on making your special day one of a kind which reflects your personality and taste. We understand the sanctity of this stage in your life and dedicate ourselves to perfect your big day so that you are not left fighting for a smile in all those special photographs, but are genuinely smiling!
+<p>With your input, we help conceptualize, design, organise and co-ordinate the sequence of events for the smooth functioning of your special day. You can be assured that Cherish will take care of your big day! Although, headquartered in Kitchener, we operate throughout Canada
+Set up a meeting with us and we can take forward whatever your requirement may be. Experience teaches us that the earlier we get started the better the event turns out. So don’t wait till the last hour.</p>
+                    </div>
+                </article>
+                
+				<!-- Article 1 end -->
+
+
+				<!-- Article 2 start -->
+
+                <div class="line"></div>
+                
+                <article id="article2">
+                    <h2>FLORAL DESIGN AND DECOR<a class="go_up" href="#" class="up">&uparrow;</a></h2>
+                    
+                    <div class="line"></div>
+                    
+                    <div class="articleBody clear">
+                    	<figure>
+	                    	<a href="pages/floral.html"><img src="images/images(8)jpg" width="500" height="300" /></a>
+                        </figure>
+                        
+       <p>The best floral design with flowers of your choice and colors which are a treat to the eyes.The decoration ambience is chosen as per the demand of the couple and is prototyped on the browser to see the virtual effect of the wedding.</p>
+	   <p>The colours are chosen by the expert team and they are used intricately to enhance the essence of the themes of the wedding</p>
+						<p class="pbold">Click on the image for more information</p>
+                    </div>
+                </article>
+                
+				<!-- Article 2 end -->
+
+				<!-- Article 3 start -->
+
+                <div class="line"></div>
+                
+                <article id="article3">
+                    <h2>FOOD AND BEVERAGES<a class="go_up" href="#" class="up">&uparrow;</a></h2>
+                    
+                    <div class="line"></div>
+                    
+                    <div class="articleBody clear">
+                    	<figure>
+	                    	<a href="pages/food.html"><img src="images/F.jpg" width="500" height="300" /></a>
+                        </figure>
+                        
+                        <p>The food is specially cooked by the most experienced chefs who cook the most delicious food.offers global cuisine with a wonderful fresh twist. Be it lunch or dinner- lavish buffets are served at the South Parade and our menu offers an amazing selection of entries from all across the globe. There is also a “Midnight Candle Light Buffet” with unbeatable selection of menus, just to satiate your hunger pangs in the middle of the night.</p>
+						<p class="pbold">Click on the image for more information</p>
+                    </div>
+                </article>
+                
+				<!-- Article 3 end -->
+
+				<!-- Article 4 start -->
+
+                <div class="line"></div>
+                
+                <article id="article4">
+                    <h2>MUSIC<a class="go_up" href="#" class="up">&uparrow;</a></h2>
+                    
+                    <div class="line"></div>
+                    
+                    <div class="articleBody clear">
+                    	<figure>
+	                    	<a href="pages/music.html"><img src="images/music.jpg" width="500" height="300" /></a>
+                        </figure>
+                        
+                        <p></p>
+                        <p>Music plays an integral and emotional role in our lives.  There was the song that was playing in the background during your first kiss.  The song you picked for your first dance at your wedding.  The song that helped you through a difficult time.  Or the song you and your friends belted out at the top of your lungs one summer night around a campfire.
+
+We all have stories and memories tied to songs that have become a part of who are, because music plays an integral part of shaping our identity as we mature through life.</p><p>The best music will be played as per your choice and as per the theme</p>
+						<p class="pbold">Click on the image for more information</p>
+                    </div>
+                </article>
+                
+				<!-- Article 4 end -->
+
+            </section>
+
+        <footer> <!-- Marking the footer section -->
+
+           <div class="line"></div>
+           
+           <p>Copyright 2015 - weddingplanner.com</p> <!-- Change the copyright notice -->
+         
+        </footer>
+            
+		</section> <!-- Closing the #page section -->
+        
+    </body>
+</html>
